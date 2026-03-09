@@ -1,0 +1,9 @@
+.vscode/
+pipeline-31.cache/
+pipeline-31.hw/
+pipeline-31.ip_user_files/
+pipeline-31.runs/
+pipeline-31.sim/
+ip/
+pipeline-31.xpr
+*.bit
